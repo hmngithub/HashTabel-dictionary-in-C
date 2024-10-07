@@ -11,6 +11,7 @@
 *.ilk
 *.map
 *.exp
+hash_tabale
 
 # Precompiled Headers
 *.gch
